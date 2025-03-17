@@ -20,7 +20,7 @@
 ## 📫 Get in Touch
 
 - **Email:** akpanitoro10@gmail.com
-- **LinkedIn:** [linkedin.com/akpanitorobong](linkedin.com/in/akpanitorobong)
+- **LinkedIn:** [linkedin.com/akpanitorobong](https://linkedin.com/in/akpanitorobong)
 - **GitHub:** [github.com/akpanitorobong](https://github.com/akpanitorobong)
 
 ---
