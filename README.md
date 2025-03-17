@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @akpanitorobong
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning React with JS
-- 💞️ I’m looking to collaborate on fullstack projects that help me gain needed practical experience in the field
-- 📫 How to reach me: 
-     email: itorobong80@yahoo.com
+# Hi there! 👋 I'm Akpan Itorobong
 
-<!---
-akpanitorobong/akpanitorobong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Data Scientist | Data Engineer | Software Developer**  
+🎓 MSc Data Science & Computational Intelligence, Coventry University (2025)  
+💡 Passionate about **Machine Learning, Data Engineering, and Big Data Analytics**
+
+---
+
+## 🔧 Tech Stack
+
+- **Programming:** Python (Pandas, PySpark), SQL, C#, JavaScript
+- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering
+- **Big Data & Cloud:** PySpark, AWS, Azure
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Software Development:** ASP.NET MVC, API Integration
+- **Databases:** SQL, PostgreSQL
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** akpanitoro10@gmail.com
+- **LinkedIn:** [linkedin.com/in/akpanitorobong
+- **GitHub:** [github.com/akpanitorobong](https://github.com/akpanitorobong)
+
+---
+
+### ⚡ Let's Build Something Amazing Together! 🚀
