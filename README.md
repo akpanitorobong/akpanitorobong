@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack
 
-- **Programming:** Python (Pandas, PySpark), SQL, C#, JavaScript
+- **Programming:** Python (Pandas, PySpark), SQL, C#, R programming language, JavaScript
 - **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering
 - **Big Data & Cloud:** PySpark, AWS, Azure
 - **Data Visualization:** Tableau, Matplotlib, Seaborn
