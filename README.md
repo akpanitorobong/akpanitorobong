@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akpan Itorobong
+# Hi there! 👋 I'm Itorobong Akpan
 
 🚀 **Data Scientist | Data Engineer | Software Developer**  
 🎓 MSc Data Science & Computational Intelligence, Coventry University (2025)  
